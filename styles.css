@@ -91,7 +91,7 @@ ul, ol {
     height: 50vh;
   }
   #titleBanner h1 {
-    font-size: 70px
+    font-size: 50px
   }
   #recipeColumns { 
     width: 100%;
@@ -125,10 +125,7 @@ ul, ol {
     height: 50vh;
   }
   #titleBanner h1 {
-    font-size: 70px
-  }
-   #titleBanner h1 {
-    font-size: 70px
+    font-size: 50px
   }
   #recipeColumns { 
     width: 100%;
