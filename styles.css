@@ -2,8 +2,8 @@ h1 {
   font-family: 'Pacifico', cursive;
   font-color: white;
   text-align: center;
-  margin-right: 80%;
-  margin-left: 80%;
+  margin-right: 50%;
+  margin-left: 50%;
 }
 
 h4 {
@@ -49,9 +49,9 @@ ul, ol {
 
 #titleBanner h1 {
   font-family: 'Pacifico', cursive;
-  font-size: 100px;
+  font-size: 75px;
   color: white;
-  padding: 20px;
+  padding: 10px;
   text-shadow: 0px 8px 8px #000000;
 }
 
